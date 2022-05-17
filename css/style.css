@@ -1,0 +1,88 @@
+section{
+    border: 3px double #b9414b;
+    margin: 5px 5px;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 7px 9px 15px black inset;
+}
+body{
+    background: url(../images/fondo.jpg) no-repeat fixed;
+    background-size: cover; 
+}
+.zed{
+
+    background: url(../imagzed/fondito\ .jpg) no-repeat fixed;
+    background-size: cover; 
+    
+}
+.yone{
+
+    background: url(../imageyone/yonefondo.jpg) no-repeat fixed;
+    background-size: cover; 
+    
+}
+
+h1{
+    text-align: center;
+    color: #D4AF37;
+    margin: 5px 5px;
+    font-size: xx-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 0.02em 0.02em #b33c46;
+   
+
+}
+
+img{
+    width: 300px;
+    border-top:5px solid black;
+    border-left:5px solid black;
+    border-right:5px solid black;
+    border-bottom:5px solid black;
+
+
+}
+a{
+    text-decoration: none;
+}
+
+.info{
+    color:#b33c46;
+}
+
+.descripcion{
+    color: white;
+    font-size: x-large;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.imagen{
+    float: left;
+}
+.negro{
+    float: left;
+    width: 70%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.clear{
+    clear: both;
+}
+.gull{
+    padding: 10px 50px;
+    color: #D4AF37;
+    text-shadow: 0.05em 0.05em #b33c46;
+    
+}
+
+
+
+footer{
+    color:#D4AF37;
+    text-shadow: 0.02em 0.02em #b33c46;
+}
+
+
+
